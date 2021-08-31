@@ -25,7 +25,7 @@ This is an agent that assist users in filing complaints, retrieving and updating
 
 
 ## DEMO
-![](/resources/dialogflowcx-demo "dialogflowcx-demo")
+![](/resources/dialogflowcx-demo.mp4 "dialogflowcx-demo")
 
 ## FLOWS
 ### Default Start Flow
