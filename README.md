@@ -7,14 +7,16 @@ Participation in Google's dialogflow-cx competition in August 2021 to create an 
 ## Quick Summary:
 This is an agent that assist users in filing complaints, retrieving and updating complaints that were filed before. 
 
+
 Aside from above objectives, some important components instilled are:
 1. Handling for user verification (ask for phone number, ID/passport)
 2. Redirects to human agent when prompted or when bot can't handle the conversation
 
+
 This use case sufficiently demonstrate:
 1. Bypass sequential form filling method; instead use intents and entities to perform slot filling of multiple parameters in one go
 2. Reuse of one flow (user verification) to redirects to multiple downstream flows based on session parameters
-3. Use of 
+
 
 What I learnt?
 1. Designing conversation is a rabbit hole. You cannot aim to be perfect in every single way
